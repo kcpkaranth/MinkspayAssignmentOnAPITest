@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27024" started-at="2020-06-26T17:32:18 IST" finished-at="2020-06-26T17:32:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27024" started-at="2020-06-26T17:32:18 IST" finished-at="2020-06-26T17:32:45 IST">
+      <class name="APITests">
+        <test-method status="PASS" signature="RegAUserPOSTOppSuccessfull()[pri:1, instance:APITests@63e2203c]" name="RegAUserPOSTOppSuccessfull" duration-ms="5524" started-at="2020-06-26T17:32:18 IST" finished-at="2020-06-26T17:32:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegAUserPOSTOppSuccessfull -->
+        <test-method status="PASS" signature="RegAUserPOSTOppUnSuccessfull()[pri:2, instance:APITests@63e2203c]" name="RegAUserPOSTOppUnSuccessfull" duration-ms="12497" started-at="2020-06-26T17:32:24 IST" finished-at="2020-06-26T17:32:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegAUserPOSTOppUnSuccessfull -->
+        <test-method status="PASS" signature="LoginAUser_POSTOpp_Successfull()[pri:3, instance:APITests@63e2203c]" name="LoginAUser_POSTOpp_Successfull" duration-ms="781" started-at="2020-06-26T17:32:36 IST" finished-at="2020-06-26T17:32:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAUser_POSTOpp_Successfull -->
+        <test-method status="PASS" signature="LoginAUser_POSTOpp_UnSuccessfull()[pri:4, instance:APITests@63e2203c]" name="LoginAUser_POSTOpp_UnSuccessfull" duration-ms="747" started-at="2020-06-26T17:32:37 IST" finished-at="2020-06-26T17:32:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAUser_POSTOpp_UnSuccessfull -->
+        <test-method status="PASS" signature="List_GETOpp_Successful()[pri:5, instance:APITests@63e2203c]" name="List_GETOpp_Successful" duration-ms="462" started-at="2020-06-26T17:32:38 IST" finished-at="2020-06-26T17:32:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- List_GETOpp_Successful -->
+        <test-method status="PASS" signature="DelayResponce_GETOpp_Successful()[pri:6, instance:APITests@63e2203c]" name="DelayResponce_GETOpp_Successful" duration-ms="4547" started-at="2020-06-26T17:32:38 IST" finished-at="2020-06-26T17:32:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DelayResponce_GETOpp_Successful -->
+        <test-method status="PASS" signature="SingleUserSearch_GETOpp_Successful()[pri:7, instance:APITests@63e2203c]" name="SingleUserSearch_GETOpp_Successful" duration-ms="321" started-at="2020-06-26T17:32:43 IST" finished-at="2020-06-26T17:32:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleUserSearch_GETOpp_Successful -->
+        <test-method status="PASS" signature="SingleUserNotFound_GETOpp_Successful()[pri:8, instance:APITests@63e2203c]" name="SingleUserNotFound_GETOpp_Successful" duration-ms="664" started-at="2020-06-26T17:32:43 IST" finished-at="2020-06-26T17:32:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleUserNotFound_GETOpp_Successful -->
+        <test-method status="PASS" signature="UpdateUser_PATCHOpp_Successful()[pri:9, instance:APITests@63e2203c]" name="UpdateUser_PATCHOpp_Successful" duration-ms="668" started-at="2020-06-26T17:32:44 IST" finished-at="2020-06-26T17:32:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUser_PATCHOpp_Successful -->
+        <test-method status="PASS" signature="DeleteUser_DELETEOpp_Successful()[pri:10, instance:APITests@63e2203c]" name="DeleteUser_DELETEOpp_Successful" duration-ms="701" started-at="2020-06-26T17:32:45 IST" finished-at="2020-06-26T17:32:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUser_DELETEOpp_Successful -->
+      </class> <!-- APITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
